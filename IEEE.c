@@ -2,7 +2,7 @@
 int main()
 {
 
-    // Creating the variable number with the typr integer
+    // Creating the variable number with the type integer
     int number;
     // printing a sentence to tell the user to input the number
     printf("Enter The number : ");
